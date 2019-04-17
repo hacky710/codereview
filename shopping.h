@@ -1,5 +1,5 @@
-#ifndef SHOPPING_H_
-#define SHOPPING_H_
+#ifndef PRJECT2_SHOPPING_H_
+#define PRJECT2_SHOPPING_H_
 
 #include <vector>
 #include "./goods.h"
@@ -25,4 +25,4 @@ class Shopping{
   std::vector<Goods> shopping_list_;
 };
 
-#endif  // SHOPPING_H_
+#endif  // PRJECT2_SHOPPING_H_
