@@ -1,8 +1,9 @@
 #ifndef PRJECT2_SHOPPING_H_
 #define PRJECT2_SHOPPING_H_
 
+#include "goods.h"
+
 #include <vector>
-#include "./goods.h"
 
 // Shopping class presents List of shopping.
 // Example:
