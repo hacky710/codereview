@@ -1,5 +1,5 @@
-#ifndef GOODS_H_
-#define GOODS_H_
+#ifndef PROJECT2_GOODS_H_
+#define PROJECT2_GOODS_H_
 
 // Goods class for representing goods information with index and price
 // Example:
@@ -18,4 +18,4 @@ class Goods{
 };
 
 
-#endif  // GOODS_H_
+#endif  // PROJECT2_GOODS_H_
